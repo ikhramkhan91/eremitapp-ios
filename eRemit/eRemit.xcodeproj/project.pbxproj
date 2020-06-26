@@ -56,6 +56,13 @@
 		75549752247DFEE000169121 /* eRemit */ = {
 			isa = PBXGroup;
 			children = (
+				DE4960A924A6905B0006C75A /* Models */,
+				DE4960A824A690590006C75A /* Views */,
+				DE4960A724A690540006C75A /* ViewModel */,
+				DE4960A624A6904F0006C75A /* VIewControllers */,
+				DE4960AC24A691780006C75A /* Utilities */,
+				DE4960AB24A691700006C75A /* WebService */,
+				DE4960AA24A6915A0006C75A /* Vendors */,
 				75549753247DFEE000169121 /* AppDelegate.swift */,
 				75549755247DFEE000169121 /* SceneDelegate.swift */,
 				75549757247DFEE000169121 /* ViewController.swift */,
@@ -65,6 +72,55 @@
 				75549761247DFEE500169121 /* Info.plist */,
 			);
 			path = eRemit;
+			sourceTree = "<group>";
+		};
+		DE4960A624A6904F0006C75A /* VIewControllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VIewControllers;
+			sourceTree = "<group>";
+		};
+		DE4960A724A690540006C75A /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		DE4960A824A690590006C75A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DE4960A924A6905B0006C75A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		DE4960AA24A6915A0006C75A /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendors;
+			sourceTree = "<group>";
+		};
+		DE4960AB24A691700006C75A /* WebService */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = WebService;
+			sourceTree = "<group>";
+		};
+		DE4960AC24A691780006C75A /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
